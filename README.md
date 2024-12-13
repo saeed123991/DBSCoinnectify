@@ -1,6 +1,3 @@
-Here’s a professional `README.md` based on the details provided:
-
-```markdown
 # DBSCoinnectify
 
 DBSCoinnectify is a simple crypto banking web application developed using the Django framework. It allows users to interact with real-time cryptocurrency data and manage their account information in a secure environment. The application is designed to provide a user-friendly interface for cryptocurrency banking and user management.
