@@ -5,7 +5,7 @@ DBSCoinnectify is a simple crypto banking web application developed using the Dj
 ## Features
 
 - **User Registration and Login**: Users can register and log in to their accounts securely.
-- **Account Management**: Users can update their personal information and manage their accounts.
+- **Account Management**: Admin can update users personal information and manage their accounts.
 - **Real-Time Crypto Data**: The app integrates with a real-time crypto API to fetch and display the latest cryptocurrency data.
 - **Responsive Design**: The web application is fully responsive, offering an optimal experience across devices.
 - **Error Handling**: The application displays user-friendly error messages for invalid inputs or issues.
